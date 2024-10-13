@@ -1,6 +1,6 @@
 # Car Dealership
 
-This project demonstrates unit and integration testing in a car dealership system. It provides RESTful APIs for managing cars, customers, and sales.
+This project demonstrates unit and integration testing in a car dealership system. It provides RESTful APIs for managing cars.
 
 ## Table of Contents
 

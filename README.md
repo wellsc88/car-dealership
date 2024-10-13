@@ -50,6 +50,7 @@ Follow these steps to set up the project locally:
    ```
 
 2. **Clone the repository**: Start by cloning the repository to your local machine. You can do this using the following command:
+
    ```bash
     git clone https://github.com/yourusername/car-dealership.git
    ```
@@ -91,9 +92,9 @@ To run the application, follow these steps:
 
 1. **Ensure the application is built**: Before running the application, make sure to build it using the command:
 
-   ```bash
+  ```bash
      mvn clean install
-   ```
+  ```
 
 2. **Import the project into your IDE**: Open your favorite IDE (like IntelliJ IDEA, Eclipse, or VS Code) and import the project as a Maven project.
 
@@ -120,7 +121,8 @@ To run the application, follow these steps:
 To ensure the quality and reliability of the application, testing is implemented throughout the project. Follow these steps to run the tests:
 
 1. **Run Unit Tests**: To execute the unit tests, use the following Maven command:
-   ```bash
+  
+  ```bash
     mvn test
   ```
 

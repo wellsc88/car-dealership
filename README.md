@@ -137,7 +137,7 @@ To ensure the quality and reliability of the application, testing is implemented
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 By using this project, you agree to abide by the terms of the **Apache License 2.0** , which allows for reuse, modification, and distribution, provided that proper attribution is given to the original authors.
 
